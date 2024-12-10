@@ -1,5 +1,6 @@
 # MiniProjects
 HTML,CSS,JS
+Python 
 
 <h1>Frameworks</h1>
 <ul>
